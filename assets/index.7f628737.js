@@ -1,0 +1,1 @@
+import{a3 as e,U as t,V as o,W as s,a2 as a}from"./index.0d24ec4d.js";import{V as c}from"./VRow.c6cd3aa4.js";const r={},n=a("h1",null,"404 - oops...",-1);function _(f,i){return t(),o(c,{justify:"center"},{default:s(()=>[n]),_:1})}const p=e(r,[["render",_]]);export{p as default};
